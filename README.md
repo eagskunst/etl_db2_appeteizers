@@ -1,4 +1,4 @@
-### ETL project for BD2
+# ETL project for BD2
 This is an ETL project for a appeteizers company made in Python with PETL and SQLAlchemy.
 This is also a college project.
 
